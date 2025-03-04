@@ -10,7 +10,7 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 
 # PDF folder (inside Docker container or local machine)
-download_dir = os.path.expanduser("~/naizaCrochetingDev/scrapper/input_file/{project_type}")
+download_dir = os.path.expanduser("~/naizaCrochetingDev/scrapper/input_file2/{project_type}")
 if not os.path.exists(download_dir):
     os.makedirs(download_dir)
 
@@ -60,9 +60,8 @@ def download_pdf(pdf_url, file_name, project_type):
 
 # Function to scrape and download patterns from Yarnspirations for a given cloth type
 def download_yarnspirations(project_type, total_page_num):
-    # Note: The base URL doesn't currently change by project_type. 
-    # If needed, update the URL to filter by cloth type.
-    base_url = "https://www.yarnspirations.com/collections/patterns?filter.p.m.global.project_type={project_type}&page={page_num}"
+    # base_url = "https://www.yarnspirations.com/collections/patterns?filter.p.m.global.project_type={project_type}&page={page_num}"
+    base_url = 'https://www.yarnspirations.com/collections/patterns?filter.p.m.global.pattern_category=Clothing&filter.p.m.global.skill_type=Crochet'
 
     print(f"[INFO] Starting scraping for project type: {project_type}, Total pages: {total_page_num}")
 
