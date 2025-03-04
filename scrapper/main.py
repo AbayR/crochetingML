@@ -10,7 +10,7 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 
 # PDF folder (inside Docker container or local machine)
-download_dir = os.path.expanduser("~/naizaCrochetingDev/scrapper/input_file2/{project_type}")
+download_dir = os.path.expanduser("~/naizaCrochetingDev/scrapper/input_file/{project_type}")
 if not os.path.exists(download_dir):
     os.makedirs(download_dir)
 
@@ -61,7 +61,7 @@ def download_pdf(pdf_url, file_name, project_type):
 # Function to scrape and download patterns from Yarnspirations for a given cloth type
 def download_yarnspirations(project_type, total_page_num):
     # base_url = "https://www.yarnspirations.com/collections/patterns?filter.p.m.global.project_type={project_type}&page={page_num}"
-    base_url = 'https://www.yarnspirations.com/collections/patterns?filter.p.m.global.pattern_category=Clothing&filter.p.m.global.skill_type=Crochet'
+    base_url = 'https://www.yarnspirations.com/collections/patterns?filter.p.m.global.pattern_category=Clothing&filter.p.m.global.project_type={project_type}&filter.p.m.global.skill_type=Crochet&page={page_num}'
 
     print(f"[INFO] Starting scraping for project type: {project_type}, Total pages: {total_page_num}")
 
@@ -103,7 +103,7 @@ def quit_driver():
     print("[INFO] WebDriver closed.")
 
 # List of clothing types to scrape
-clothes_list = ['Tops', 'Dresses', 'Skirts', 'Pants', 'Jackets']
+clothes_list = ['Tops', 'Dresses', 'Skirts', 'Pants', 'Jackets', 'Bunting Bags', 'Caps & Ponchos', 'Costumes', 'Onesies & Rompers', 'Sets', 'Shorts', 'Super Scarves', 'Sweaters & Cardigans', 'Tank Tops', 'Tunics', 'Vests']
 
 # Loop through each cloth type with a counter
 for index, cloth in enumerate(clothes_list, start=1):
