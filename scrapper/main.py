@@ -8,6 +8,7 @@ import os
 import requests
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
+import urllib.parse
 
 # PDF folder (inside Docker container or local machine)
 download_dir = os.path.expanduser("~/naizaCrochetingDev/scrapper/input_file/{project_type}")
@@ -103,14 +104,14 @@ def quit_driver():
     print("[INFO] WebDriver closed.")
 
 # List of clothing types to scrape
-clothes_list = ['Tops', 'Dresses', 'Skirts', 'Pants', 'Jackets', 'Bunting Bags', 'Caps & Ponchos', 'Costumes', 'Onesies & Rompers', 'Sets', 'Shorts', 'Super Scarves', 'Sweaters & Cardigans', 'Tank Tops', 'Tunics', 'Vests']
-
+#clothes_list = ['Tops', 'Dresses', 'Skirts', 'Pants', 'Jackets', 'Bunting Bags', 'Costumes', 'Sets', 'Shorts', 'Super Scarves', 'Tank Tops', 'Tunics', 'Vests', 'CAPES+%26+PONCHOS', 'ONESIES+%26+ROMPERS', 'SWEATERS+%26+CARDIGANS']
+# left_clothes = ['Capes & Ponchos', 'Onesies & Rompers', 'Sweaters & Cardigans']
+one_item = ['Onesies & Rompers']
 # Loop through each cloth type with a counter
-for index, cloth in enumerate(clothes_list, start=1):
-    print(f"\n[INFO] [{index}/{len(clothes_list)}] Starting scraping for cloth type: {cloth}")
-    # You can adjust the number of pages for each cloth type as needed.
-    download_yarnspirations(cloth, total_page_num=2)
-    print(f"[INFO] [{index}/{len(clothes_list)}] Completed scraping for cloth type: {cloth}\n")
-
+for index, cloth in enumerate(one_item, start=1):
+    encoded_cloth = urllib.parse.quote(cloth).replace('%20', '+')
+    print(f"\n[INFO] [{index}/{len(one_item)}] Starting scraping for cloth type: {cloth}")
+    download_yarnspirations(encoded_cloth, total_page_num=3)
+    print(f"[INFO] [{index}/{len(one_item)}] Completed scraping for cloth type: {cloth}\n")
 # Quit WebDriver after all scraping tasks are finished
 quit_driver()
