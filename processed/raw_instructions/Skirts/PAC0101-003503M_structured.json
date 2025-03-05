@@ -1,0 +1,124 @@
+{
+    "title": "EDGING FOR SKIRT",
+    "steps": [
+        "EDGING FOR SKIRT\n(TO CROCHET)\nMEASUREMENTS 3rd row: Sl st in each of first 3 dc\nApprox 1\u00bd ins [4 cm] wide. and ch-2 sp. Ch 3 (counts as dc).\n(2 dc. Ch 2. 3 dc) in same ch-2 sp.\nMATERIALS Turn.\nPatons\u00ae Grace (50 g / 1.75 oz) Rep last 2 rows until Edging\n61012 (Taupe) 1 ball makes approx measures required length to fit\n72 ins [1.8 m]. around skirt lower edge ending\nwith a RS row. Fasten off.\nSize 3.5 mm (U.S. E or 4) crochet\nhook or size needed to obtain Note: Our sample has top of\ntension. Purchased skirt. Sewing Edging positioned 4 ins [10 cm]\nneedle and matching thread. above lower edge of skirt.\nTENSION FINISHING\n26 sc and 28 rows = 4 ins [10 cm]. Pin Edging in position. With\nsewing needle and thread, sew\nSTITCH GLOSSARY Edging to skirt as shown.\nApprox = Approximately.\nCh = Chain.\nCont = Continue(ity).\nDc = Double crochet.\nRep = Repeat.\nRS = Right side.\nSl st = Slip stitch.\nWS = Wrong side.\nINSTRUCTIONS\nCh 4.\n1st row: (WS). (2 dc. Ch 2. 3 dc)\nin 4th ch from hook. Turn.\n2nd row: Ch 6. Sl st in 4th ch\nfrom hook. (Ch 3. Sl st in same sp\nas last sl st) twice. Ch 2. (3 dc.\nCh 2. 3 dc) in next ch-2 sp. Turn.\nABBREVIATIONS: www.patonsyarns.com/glossary \u2026 a part of your life.\nP.O. Box 40 Listowel ON N4W 3H3"
+    ],
+    "entities": [
+        {
+            "text": "3rd",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "1\u00bd",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4 cm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "MATERIALS Turn",
+            "label": "PERSON"
+        },
+        {
+            "text": "Grace",
+            "label": "PERSON"
+        },
+        {
+            "text": "50",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Taupe",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "72",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1.8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Size 3.5 mm",
+            "label": "PERSON"
+        },
+        {
+            "text": "U.S.",
+            "label": "GPE"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Sewing Edging",
+            "label": "ORG"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "10 cm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "26",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "28",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "10 cm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "Approx",
+            "label": "GPE"
+        },
+        {
+            "text": "Approximately",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4th",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "4th",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "3 dc",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "P.O. Box",
+            "label": "PERSON"
+        }
+    ]
+}

@@ -1,0 +1,396 @@
+{
+    "title": "www.redheart.com",
+    "steps": [
+        "www.redheart.com\nFinished Length: 12 (14, 16)\u201d.\nRED HEART\u00ae \u201cSuper Saver\u00ae\u201d: 1 skein each 505 Aruba\nSea A, 316 Soft White B and 373 Petal Pink C.\nCrochet Hook: 5.5mm [US I-9].\nYarn needle.\nGAUGE: 12 dc = 4\u201d; 6 rows = 4\u201d. CHECK YOUR GAUGE.\nUse any size hook to obtain the gauge.\nNote: Halter Top is worked in rounds from center out.\nHALTER\nWith A, ch 4, slip st in first ch to form a ring.\nRound 1: Ch 3 (counts as dc here and throughout), work\n10 dc in ring, slip st in top of beginning ch to join \u2013 11 dc.\nRound 2: Ch 3, work dc in same space, work 2 dc in each\ndc around, slip st in top of beginning ch \u2013 22 dc.\nRound 3: Ch 3, [2 dc in next dc, dc in next dc] around to\nlast dc, 2 dc in last dc, slip st in top of beginning ch \u2013 33\ndc.\nFasten off.\nRound 4: Join B in any st, ch 3, dc in next dc, [ch 3, skip\nnext dc, dc in next 2 dc] around, ch 3, skip last dc, slip st in\ntop of beginning ch.\nRound 5: Ch 3, dc in next dc, work 3 dc in ch-3 space, [dc\nin next 2 dc, 3 dc in ch-3 space] around, slip st in top of\nbeginning ch \u2013 55 dc.\nRound 6: Ch 3, dc in next 3 dc, 2 dc in next dc, [dc in next\nHappy Halter for Toddler 4 dc, 2 dc in next dc] around, slip st in top of beginning ch\n\u2013 66 dc.\nFasten off.\nPick three girly-girl colors of yarn and crochet Round 7: Join C in any st, ch 7 (counts as tr and ch 3),\nthis adorable halter for a toddler. You start at the skip next dc, [tr in next dc, ch 3, skip next dc] around, slip\nst to 4th ch of beginning ch.\ncenter and crochet your way out to the edges in\nRound 8: Ch 3, 2 dc in ch-3 space, [dc in next tr, 2 dc in\n9 to 11 rows, depending on size.\nch-3 space] around, slip st in top of beginning ch \u2013 99 dc.\nFor Medium and Large Only\nRound 9: Ch 3, dc in each dc around, slip st in top of\nLW2343\nbeginning ch.\nFor Large Only\nRound 10: Repeat Round 9.\nDesigned by Double Stitch.\nFor All Sizes\nFasten off.\nDirections are for size Small; changes for sizes\nRound 9 (10, 11): Join A in any st, ch 1, sc in each st\nMedium and Large are in parentheses.\naround, slip st in beginning ch.\nFasten off.\nFinished Bust/Waist: 12 (14, 16)\u201d.\n\u00a92010 Coats & Clark For more ideas & inspiration -\nP.O. Box 12229 www.redheart.com\nGreenville, SC 29612-0229\nwww.crochettoday.com www.knittingtodaymag.com\nwww.redheart.com\nFINISHING\nLeft Neck Tie and Back Lace\nWith A, ch 60 for Back Lace, slip st in any sc, slip st in\neach st for 5\u201d, ch 30 for Neck Tie.\nFasten off.\nRight Neck Tie and Back Lace\nCh 30 for Neck Tie, skip 3\u201d from Left Neck Tie along edge\nof Halter Top, slip st in each st for 5\u201d, ch 60 for Back Lace.\nFasten off.\nWeave in ends.\nRED HEART\u00ae \u201cSuper Saver\u00ae\u201d\nArt. E300 available in solid color 7 oz\n(198 g), 364 yd (333 m); multi color and\nprint 5 oz (141 g), 244 yd (223 m), flecks\n5 oz (141g), 260 yds (238 m) skeins.\nAbbreviations: A, B, C = Color A, B, C; ch = chain; dc\n= double crochet; mm = millimeters; sc = single crochet;\nst(s) = stitch(es); tr = triple or treble crochet; [ ] = work\ndirections in brackets the number of times specified.\n\u00a92010 Coats & Clark For more ideas & inspiration -\nP.O. Box 12229 www.redheart.com\nGreenville, SC 29612-0229\nwww.crochettoday.com www.knittingtodaymag.com"
+    ],
+    "entities": [
+        {
+            "text": "Finished Length",
+            "label": "PERSON"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "14",
+            "label": "DATE"
+        },
+        {
+            "text": "16",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "505",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Aruba",
+            "label": "GPE"
+        },
+        {
+            "text": "316",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "373",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5.5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "US",
+            "label": "GPE"
+        },
+        {
+            "text": "Yarn",
+            "label": "PERSON"
+        },
+        {
+            "text": "GAUGE",
+            "label": "ORG"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "GAUGE",
+            "label": "ORG"
+        },
+        {
+            "text": "Halter Top",
+            "label": "PERSON"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "22",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "33",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "next 2",
+            "label": "DATE"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "next 2",
+            "label": "DATE"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "next 3",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Happy Halter",
+            "label": "PERSON"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "66",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4th",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "9 to 11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Medium and Large Only\nRound",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Round 10:",
+            "label": "LAW"
+        },
+        {
+            "text": "Repeat Round",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Double Stitch",
+            "label": "PERSON"
+        },
+        {
+            "text": "All Sizes\nFasten",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Round 9",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "10, 11",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Medium and Large",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Finished Bust/Waist",
+            "label": "PERSON"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "14",
+            "label": "DATE"
+        },
+        {
+            "text": "16",
+            "label": "DATE"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "Coats & Clark",
+            "label": "ORG"
+        },
+        {
+            "text": "P.O. Box",
+            "label": "ORG"
+        },
+        {
+            "text": "12229",
+            "label": "DATE"
+        },
+        {
+            "text": "Greenville",
+            "label": "GPE"
+        },
+        {
+            "text": "SC",
+            "label": "ORG"
+        },
+        {
+            "text": "29612-0229",
+            "label": "DATE"
+        },
+        {
+            "text": "60",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "30",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Neck Tie",
+            "label": "ORG"
+        },
+        {
+            "text": "Neck Tie",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Left Neck Tie",
+            "label": "ORG"
+        },
+        {
+            "text": "Halter Top",
+            "label": "PERSON"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "60",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "E300",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "198",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "364 yd",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "333",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "141",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "244 yd",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "223",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "141",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "260",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "238",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "mm =",
+            "label": "PERSON"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "Coats & Clark",
+            "label": "ORG"
+        },
+        {
+            "text": "P.O. Box",
+            "label": "ORG"
+        },
+        {
+            "text": "12229",
+            "label": "DATE"
+        },
+        {
+            "text": "Greenville",
+            "label": "GPE"
+        },
+        {
+            "text": "SC",
+            "label": "ORG"
+        },
+        {
+            "text": "29612-0229",
+            "label": "DATE"
+        }
+    ]
+}

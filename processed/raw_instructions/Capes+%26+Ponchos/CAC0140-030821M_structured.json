@@ -1,0 +1,396 @@
+{
+    "title": "SHOP KIT",
+    "steps": [
+        "SHOP KIT\nGARDEN PARTY CROCHET PONCHO CAC0140-030821M | March 30, 2021\nMEDIUM\n4\nCROCHET I SKILL LEVEL: EASY\nABBREVIATIONS\nApprox = Rep = Repeat Sc = Single crochet\nApproximately Rnd(s) = Round(s) Sp(s) = Space(s)\nCh = Chain(s) RS = Right side St(s) = Stitch(es)\nDc = Double crochet Sl st = Slip stitch WS = Wrong side\nPat = Pattern\nSIZES 1st row: (RS). 1 dc in 4th ch from\nTo fit bust measurement hook (counts as 2 dc). *Ch 1. Skip\nXS/S/M 28-38\"[ 71-96.5 cm] next ch. 1 dc in each of next 3 ch.\nL/XL/2XL 40-48\"[ 101.5-122 cm] Rep from * to last 3 ch. Ch 1. Skip\n3/4/5XL 52-62\"[ 132-157.5 cm] next ch. 1 dc in each of last 2 ch.\nTurn.\nGAUGE 2nd row: Ch 5 (counts as 1 dc.\n13 sc and 14 rows = 4\" [10 cm]. Ch 2). *1 sc in next ch-1 sp. Ch 5.\n(multiple of 4 ch + 7). Rep from * to last ch-1 sp. 1 sc in\nch-1 sp. Ch 2. 1 dc in last dc. Turn.\nINSTRUCTIONS\n3rd row: Ch 1. 1 sc in first dc. Ch 3.\nThe instructions are written for *1 sc in next ch-5 sp. Ch 3. Rep\nsmallest size. If changes are neces- from * last dc. 1 sc in last dc (3rd\nsary for larger sizes the instructions ch of turning ch 5). Turn.\nwill be written thus ( ). When only 4th row: Ch 4 (counts as 1 dc.\none number is given, it applies to Ch 1). *3 dc in next ch-3 sp. Ch 1.\nall sizes. For ease in working, circle Rep from * to last sc. 1 dc in last\nMATERIALS\nall numbers pertaining to your size. sc. Turn.\nCaron\u00ae Simply Soft\u00ae Speckle\u2122 (5 oz/141 g; 235 yds/215 m)\n5th row: Ch 1. 1 sc in first dc. Ch 5.\nSizes XS/S/M L/XL/2XL 3/4/5XL FRONT AND BACK (Make alike) *1 sc in next ch-1 sp. Ch 5. Rep\nSeashell (61009) 4 5 6 balls 107 (119-127) (multiple of 4 ch + from * to last dc. 1 sc in last dc.\n7). See diagram on page 2. Turn.\nSize U.S. H/8 (5 mm) crochet hook or size needed to obtain gauge.\nFor accessibility support, please contact customer care at 1-888-368-8401 or access@yarnspirations.com. GARDEN PARTY CROCHET PONCHO 1 of 2\nGARDEN PARTY CROCHET PONCHO CAC0140-030821M | March 30, 2021\n6th row: Ch 4 (counts as 1 dc. Edging\nCh 1). 1 sc in first ch-5 sp. *Ch 3. With RS facing, join yarn with sl st\n1 sc in next ch-5 sp. Rep from * to to bottom right corner of Poncho.\nlast sc. Ch 1. 1 dc in last sc. Turn. Ch 1. Work 1 rnd of sc evenly\n7th row: Ch 3 (counts as dc). 1 dc around all edges of Poncho, work-\nin next ch-1 sp. *3 dc in next ch-3 ing 2 sc in each corner. Join with\nsp. Ch 1. Rep from * to last (Ch 1. sl st to first sc. Fasten off.\n1 dc). 1 dc in next ch-1 sp. 1 dc in\nlast dc. Turn.\nRep 2nd to 7th rows for pat until\npiece measures approx 18 (18-20)\"\n[46 (46-51) cm], ending on a WS\nrow. Fasten off.\nFINISHING\nSew Front and Back shoulders 8\nalong top edge approx 11 (12\u00bd-\n14\u00bd)\" [28 (32-37) cm] from each 7\nedge, leaving 11\" [28 cm] opening\nfor neck in center. STITCH KEY 6\n= chain (ch)\n5\nNeck Edging = single crochet (sc) REPEAT\nWith RS facing, join yarn with sl st 4\nat left shoulder.\n= double crochet (dc) 3\n1st rnd: Ch 1. Work sc evenly\naround neck edge. Join with sl st 2\nto first sc. Fasten off.\n1\nREDUCED SAMPLE OF PATTERN\nFor accessibility support, please contact customer care at 1-888-368-8401 or access@yarnspirations.com. GARDEN PARTY CROCHET PONCHO 2 of 2"
+    ],
+    "entities": [
+        {
+            "text": "PONCHO",
+            "label": "NORP"
+        },
+        {
+            "text": "March 30, 2021",
+            "label": "DATE"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Space(s",
+            "label": "PERSON"
+        },
+        {
+            "text": "Sl st",
+            "label": "PERSON"
+        },
+        {
+            "text": "1 dc",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4th",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "71-96.5 cm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "101.5-122 cm] Rep",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3/4/5XL",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "52-62",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "132",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ch 5",
+            "label": "LAW"
+        },
+        {
+            "text": "13",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "10 cm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4 ch + 7",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2. 1",
+            "label": "DATE"
+        },
+        {
+            "text": "3rd",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3rd",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4th",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Ch 1",
+            "label": "LAW"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1 dc",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Caron\u00ae",
+            "label": "PERSON"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "235",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5th",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Sizes XS/S/M L/XL/2XL 3/4/5XL",
+            "label": "PERSON"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "61009",
+            "label": "DATE"
+        },
+        {
+            "text": "4 5 6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "107",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "119-127",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "U.S.",
+            "label": "GPE"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "crochet",
+            "label": "PERSON"
+        },
+        {
+            "text": "1-888-368",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "GARDEN PARTY",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "PONCHO",
+            "label": "NORP"
+        },
+        {
+            "text": "March 30, 2021\n6th",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Poncho",
+            "label": "NORP"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "7th",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Poncho",
+            "label": "GPE"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1 dc",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1 dc",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "7th",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "18",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "18-20",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "46",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "46-51",
+            "label": "DATE"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "12\u00bd-",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "28",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "32-37",
+            "label": "DATE"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "28 cm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1-888-368",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "GARDEN PARTY",
+            "label": "ORG"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        }
+    ]
+}

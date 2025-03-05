@@ -1,0 +1,376 @@
+{
+    "title": "One size fits most.",
+    "steps": [
+        "One size fits most.\nSweater measures 28\u201d wide x 13\u201d long.\nRED HEART\u00ae Boutique\u2122 Midnight\u2122: 3 Balls 1937\nMoonlight A and 1936 Misty B.\nCrochet Hook: 5.5mm [US I-9].\nYarn needle.\nGAUGE: 12 hdc = 4\u201d; 11 rows = 4\u201d in. CHECK YOUR\nGAUGE. Use any size hook to obtain the gauge.\nSPECIAL ABBREVIATIONS\nFptr = Front post triple crochet. Yo twice, insert hook from\nthe front side of the work to back and to front again around\nthe post of the indicated stitch on a previous row; yo and\npull up a loop (4 loops on hook), [yo and draw through two\nloops] twice (2 loops on hook), yo and draw through two\nloops (1 loop on hook).\nFRONT\nWith A, ch 90.\nRow 1 (Right Side): Hdc in 2nd ch from hook and in each\nch across.\nRow 2: Ch 2 (counts as hdc here and throughout), turn,\nhdc in each hdc across \u2013 89 hdc.\nFasten off.\nRow 3: Join B in last st, ch 2, turn, hdc in first 2 hdc, *Fptr\naround next hdc 2 rows below, hdc in next 2 hdc; repeat\nfrom * to end.\nOptions Topper\nRow 4: Ch 2, turn, hdc in each st to end.\nFasten off.\nUsing two colors of yarn gives you wonderful Row 5: Join A in last st, ch 2, turn, hdc in first 2 hdc, *Fptr\naround next hdc 2 rows below, hdc in next 2 hdc; repeat\nshadings, the kind of look that adds lasting\nfrom * to end.\ninterest to your crocheting and your style. Front\nRow 6: Ch 2, turn, hdc in each st to end.\nand back are made with two different pattern\nRows 7-36: Repeat Rows 2-5.\nstitches, so if you do happen to tire of one side, Row 37: With A, repeat Row 2.\nyou have the option of switching it around for a Row 38: Ch 2, turn, hdc in next 27 sts, ch 35, skip 33 hdc,\nhdc in next 27 hdc.\nnew texture.\nRow 39: Ch 2, turn, hdc in next 26 hdc, 35 hdc in ch-33\nspace, hdc in next 27 hdc \u2013 89 hdc.\nLW2695 Row 40: Ch 2, turn, hdc in each hdc across.\nFasten off.\nRow 41: Join B in last st, ch 2, turn, hdc in next 4 hdc,\nDesigned by Double Stitch Twins. *Fptr around next hdc 2 rows below, hdc in next 5 hdc;\nrepeat from * to end.\nFor more ideas & inspiration -\n\u00a92012 Coats & Clark\nP.O. Box 12229 www.redheart.com\nGreenville, SC 29612-0229\nwww.crochettoday.com www.yourknittinglife.com\nRow 42: Ch 2, turn, hdc in each st across.\nRows 43-58: Repeat Rows 41-42.\nFasten off.\nRow 59-76: Join A and repeat Rows 41-42.\nFINISHING\nWith right sides together, fold piece in half lining up sts of\nfirst and last rows.\nJoining Row (Wrong Side): Working through both layers,\nch 1, turn, sc in next 25 sts, working through sts of Row 76\nonly, sc in next 39 sts, working through both layers, sc in\nnext 25 sts.\nFasten off.\nWeave in ends.\nRED HEART\u00ae Boutique\u2122 Midnight\u2122 Art.\nE786, Available in 2.5 oz (70g), 153 yd\n(140m) balls.\nAbbreviations: A, B, C = Color A, B, C; ch = chain;\nhdc = half double crochet; mm = millimeters; sc = single\ncrochet; st(s) = stitch(es); tr = triple or treble crochet; yo =\nyarn over; * or ** = repeat whatever follows the * or ** as\nindicated.\nFor more ideas & inspiration -\n\u00a92012 Coats & Clark\nP.O. Box 12229 www.redheart.com\nGreenville, SC 29612-0229\nwww.crochettoday.com www.yourknittinglife.com"
+    ],
+    "entities": [
+        {
+            "text": "One",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Sweater",
+            "label": "PERSON"
+        },
+        {
+            "text": "28",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "13",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Misty B.\n",
+            "label": "PERSON"
+        },
+        {
+            "text": "5.5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "US",
+            "label": "GPE"
+        },
+        {
+            "text": "Yarn",
+            "label": "PERSON"
+        },
+        {
+            "text": "GAUGE",
+            "label": "ORG"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "GAUGE",
+            "label": "ORG"
+        },
+        {
+            "text": "a previous row",
+            "label": "DATE"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "90",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2nd",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "89",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "next 2",
+            "label": "DATE"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "next 2",
+            "label": "DATE"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "37",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "38",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "next 27",
+            "label": "DATE"
+        },
+        {
+            "text": "35",
+            "label": "DATE"
+        },
+        {
+            "text": "33",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "next 27",
+            "label": "DATE"
+        },
+        {
+            "text": "39",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "next 26",
+            "label": "DATE"
+        },
+        {
+            "text": "35",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "next 27",
+            "label": "DATE"
+        },
+        {
+            "text": "89",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "40",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "41",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "next 4",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "next 5",
+            "label": "DATE"
+        },
+        {
+            "text": "2012",
+            "label": "DATE"
+        },
+        {
+            "text": "Coats & Clark\nP.O. Box",
+            "label": "ORG"
+        },
+        {
+            "text": "12229",
+            "label": "DATE"
+        },
+        {
+            "text": "Greenville",
+            "label": "GPE"
+        },
+        {
+            "text": "SC",
+            "label": "ORG"
+        },
+        {
+            "text": "29612-0229",
+            "label": "DATE"
+        },
+        {
+            "text": "42",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "43",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "41",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "59-76",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "41",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "half",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Joining Row",
+            "label": "PERSON"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "next 25",
+            "label": "DATE"
+        },
+        {
+            "text": "76",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "next 39",
+            "label": "DATE"
+        },
+        {
+            "text": "next 25",
+            "label": "DATE"
+        },
+        {
+            "text": "2.5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "70",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "153 yd",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "140",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "half",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "mm =",
+            "label": "PERSON"
+        },
+        {
+            "text": "2012",
+            "label": "DATE"
+        },
+        {
+            "text": "Coats & Clark\nP.O. Box",
+            "label": "ORG"
+        },
+        {
+            "text": "12229",
+            "label": "DATE"
+        },
+        {
+            "text": "Greenville",
+            "label": "GPE"
+        },
+        {
+            "text": "SC",
+            "label": "ORG"
+        },
+        {
+            "text": "29612-0229",
+            "label": "DATE"
+        }
+    ]
+}

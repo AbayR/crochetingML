@@ -1,0 +1,484 @@
+{
+    "title": "Home | Caron | Patterns | Crochet Scalloped Top",
+    "steps": [
+        "Home | Caron | Patterns | Crochet Scalloped Top\nCrochet Scalloped Top\ndesigned by Lorna Miser\nDESCRIPTION SIZING\nThis light and easy summer top adds\ninterest with a gentle scalloped pattern.\nCrocheted in Caron Simply Soft.\nAbbreviations\nCh(s) = Chain(s) Dc = double crochet Dc2tog = (Yoh. Draw up\na loop in next st. Yoh and\ndraw through 2 loops on\nhook) twice. Yoh and\ndraw through all loops on\nhook.\nDetails & Instructions\nMEASUREMENTS\nFinished bust\nmeasurement\n40 ins [101.5\nS\ncm]\nM 48 ins [122 cm]\nL 56 ins [142 cm]\n64 ins [162.5\nXL\ncm]\n2XL72 ins [183 cm]\nFinished length\nmeasurement\nS 21 ins [56 cm]\nM 22 ins [56 cm]\nL 23 ins [58 cm]\nXL 24 ins [61 cm]\n2XL25 ins [63.5 cm]\nMATERIALS\nSimply Soft\n(170 g/6. oz;288 m/315 yds)\nSizes S M L XL 2XL\nMain Color (MC)\nLemon Meringue 3 4 4 5 5\n(9766)\nSize US I-9 (5.5mm) crochet hook or size to obtain gauge. Open stitch\nmarker Yarn needle.\nGAUGE\nIn Scalloped Stitch 14 sts and 6 rows = 4\"/10cm.\nINSTRUCTIONS\nPATTERN STITCH\nScallop Stitch (multiple of 14)\nChain multiple of 14 plus 4 for set-up row\nSet-up row Dc in 4th ch from hook, *ch 1, skip 2 ch, dc in next ch, ch 1, skip 1 ch, dc2tog into next ch and 4th ch\n(skipping 3 ch), ch 1, skip 1 ch, dc in next ch, ch 1, skip 2 ch, (dc, ch 1, dc, ch 1, dc, ch 1, dc) into next ch; repeat\nfrom * across, ending last repeat (dc, ch 1, dc, ch 1, dc) in last ch, turn.\nRow 1 and all following rows Ch 4 (counts as 1 dc + 1 ch), (dc, ch 1, dc) in first ch-1 sp, *ch 1, skip next ch-1\nsp, dc in next ch-1 sp, ch 1, dc2tog into next 2 ch-1 sps, ch 1, dc in next ch-1 sp, ch 1, skip next ch-1 sp, (dc, ch\n1, dc, ch 1, dc, ch 1, dc) into next ch-1 sp; repeat from * ending last repeat (dc, ch 1, dc, ch 1, dc) in top of\nturning ch, turn.\nBACK\nCh 74 (88, 102, 116, 130) (includes 4 ch for set-up row). Work set-up row\u20145 (6, 7, 8, 9) repeats across. Work\neven in Scallop St pattern until piece measures 12 (13, 13, 14, 14)\"/30.5 (33, 33, 35.5, 35.5)cm.\nShape Sleeves\nUse open stitch marker to hold current position. Using a separate ball of yarn, join with a slip stitch to left end of\nlast row (opposite working yarn position), attaching it to the top of the turning chain, ch 14. Cut yarn. Return to\nworking yarn at beginning of this row, ch 18. Turn.\nNext row: Work one new pattern repeat across beginning ch, continue across body sts in pattern, work one new\npattern repeat across ending ch.\nWork even until sleeve measures 9 (9, 10, 10, 11)\"/23 (23, 25.25, 25.5, 28)cm. Fasten off, leaving 3yds/274m of\nyarn when finishing each piece.\nFRONT\nWork same as Back.\nFINISHING\nSew side and underarm seams. Mark center 12\"/30.5cm for neck opening.\nJoining shoulders\nFirst shoulder Using long yarn tail, work one more row in pattern as follows:\nCh 3 (counts as 1 dc), sl st to matching scallop on other side of shoulder, (dc, ch 1, dc) in first ch-1 sp, *ch 1, skip\nnext ch-1 sp, dc in next ch-1 sp, ch 1, dc2tog into next 2 ch-1 sps, ch 1, dc in next ch-1 sp, ch 1, skip next ch-1\nsp, (dc, ch 1, dc, sl st to matching scallop on other side of shoulder, dc, ch 1, dc) into next ch-1 sp; repeat from *\nacross neck opening, ending on a scallop. Leave yarn attached.\nSecond shoulder Work as for first shoulder joining. then try on for desired neck opening size. Add or remove\nshoulder joins to customize. Fasten off.\nUsing yarn needle, weave in ends."
+    ],
+    "entities": [
+        {
+            "text": "Caron",
+            "label": "ORG"
+        },
+        {
+            "text": "Patterns",
+            "label": "GPE"
+        },
+        {
+            "text": "Lorna Miser\nDESCRIPTION SIZING",
+            "label": "PERSON"
+        },
+        {
+            "text": "summer",
+            "label": "DATE"
+        },
+        {
+            "text": "Simply Soft",
+            "label": "PERSON"
+        },
+        {
+            "text": "Dc2tog =",
+            "label": "PERSON"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "40",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "101.5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "M 48",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "122 cm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "L 56",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "142 cm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "64",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "162.5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2XL72",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "183 cm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "21",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "56 cm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "56 cm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "58 cm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "XL 24",
+            "label": "LAW"
+        },
+        {
+            "text": "61 cm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "2XL25",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "63.5 cm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "Simply Soft",
+            "label": "PERSON"
+        },
+        {
+            "text": "170",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Sizes S M L XL 2XL",
+            "label": "ORG"
+        },
+        {
+            "text": "Main Color",
+            "label": "PERSON"
+        },
+        {
+            "text": "Lemon Meringue",
+            "label": "ORG"
+        },
+        {
+            "text": "9766",
+            "label": "DATE"
+        },
+        {
+            "text": "Size US I-9",
+            "label": "ORG"
+        },
+        {
+            "text": "5.5mm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "crochet",
+            "label": "PERSON"
+        },
+        {
+            "text": "Yarn",
+            "label": "PERSON"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4\"/10cm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "Scallop Stitch",
+            "label": "PERSON"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4th",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4th",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ch 4",
+            "label": "LAW"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "next 2",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "88",
+            "label": "DATE"
+        },
+        {
+            "text": "102",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "116",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "130",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "7",
+            "label": "DATE"
+        },
+        {
+            "text": "8",
+            "label": "DATE"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Scallop St",
+            "label": "FAC"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "13",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "13",
+            "label": "DATE"
+        },
+        {
+            "text": "14",
+            "label": "DATE"
+        },
+        {
+            "text": "14)\"/30.5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "33",
+            "label": "DATE"
+        },
+        {
+            "text": "33",
+            "label": "DATE"
+        },
+        {
+            "text": "35.5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "35.5)cm",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Shape Sleeves",
+            "label": "PERSON"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "18",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "10",
+            "label": "DATE"
+        },
+        {
+            "text": "10",
+            "label": "DATE"
+        },
+        {
+            "text": "11)\"/23",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "23",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "25.25",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "25.5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "28)cm",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3yds/274",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "12\"/30.5cm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "First",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "next 2",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Second",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        }
+    ]
+}
