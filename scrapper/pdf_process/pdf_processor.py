@@ -102,18 +102,15 @@ def main():
     makedirs()
     processed_count = 0
     
-    # Recursively search for PDF files in raw_pdf_folder (including subfolders)
     pdf_files = glob.glob(os.path.join(raw_pdf_folder, '**', '*.pdf'), recursive=True)
     print(f"[INFO] Found {len(pdf_files)} PDF files to process.")
 
     for pdf_file in pdf_files:
-        # Determine output file paths based on relative structure
         relative_path = os.path.relpath(pdf_file, raw_pdf_folder)
         pdf_base, _ = os.path.splitext(relative_path)
         image_path = os.path.join(raw_image_folder, pdf_base + ".png")
         text_path = os.path.join(raw_instructions_folder, pdf_base + ".txt")
         
-        # Skip if both image and text already exist
         if os.path.exists(image_path) and os.path.exists(text_path):
             print(f"[INFO] {pdf_file} already processed, skipping!")
             continue
