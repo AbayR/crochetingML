@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Crochet Chat Assistant</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f4f4f8;
+      margin: 0;
+      padding: 0;
+    }
+
+    .chat-container {
+      max-width: 600px;
+      margin: 2rem auto;
+      background-color: white;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+      padding: 1rem;
+    }
+
+    .chat-box {
+      max-height: 400px;
+      overflow-y: auto;
+      padding: 1rem 0;
+    }
+
+    .bubble {
+      padding: 10px 14px;
+      border-radius: 16px;
+      margin: 0.5rem 0;
+      max-width: 75%;
+      line-height: 1.4;
+    }
+
+    .user {
+      background-color: #daf0ff;
+      align-self: flex-end;
+      margin-left: auto;
+    }
+
+    .bot {
+      background-color: #eaeaea;
+      align-self: flex-start;
+      margin-right: auto;
+    }
+
+    .chat-bubbles {
+      display: flex;
+      flex-direction: column;
+    }
+
+    form {
+      margin-top: 1rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    input[type="file"],
+    textarea {
+      font-size: 1rem;
+      padding: 0.6rem;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+    }
+
+    button {
+      background-color: #5c6bc0;
+      color: white;
+      padding: 0.6rem;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 1rem;
+    }
+
+    button:hover {
+      background-color: #3f51b5;
+    }
+
+    .image-preview {
+      max-width: 100%;
+      margin-top: 10px;
+      border-radius: 10px;
+      box-shadow: 0 0 4px rgba(0,0,0,0.1);
+    }
+
+    .loader {
+      text-align: center;
+      font-style: italic;
+      color: #999;
+      padding-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="chat-container">
+    <h2 style="text-align: center;">🧶 Crochet Pattern Assistant</h2>
+
+    <div class="chat-box" id="chat">
+      <div class="chat-bubbles" id="bubbles"></div>
+    </div>
+
+    <form id="uploadForm">
+      <input type="file" name="file" id="imageInput" accept="image/*" required />
+      <textarea name="prompt" id="promptInput" placeholder="Ask a crochet question..." rows="3" required></textarea>
+      <button type="submit">Send</button>
+    </form>
+
+    <div id="previewContainer"></div>
+    <div class="loader" id="loader" style="display: none;">Thinking...</div>
+  </div>
+
+  <script>
+    const form = document.getElementById('uploadForm');
+    const chat = document.getElementById('bubbles');
+    const loader = document.getElementById('loader');
+    const previewContainer = document.getElementById('previewContainer');
+  
+    form.onsubmit = async (e) => {
+      e.preventDefault();
+  
+      const formData = new FormData(form);
+      const prompt = formData.get("prompt");
+      const fileInput = document.getElementById("imageInput");
+      const file = fileInput.files[0];
+  
+      if (!file || !prompt.trim()) {
+        alert("Please upload an image and write a prompt.");
+        return;
+      }
+  
+      // Show user message (text)
+      appendMessage(prompt, 'user');
+  
+      // Show image as a chat bubble
+      const reader = new FileReader();
+      reader.onload = function(e) {
+        appendImage(e.target.result, 'user');
+      };
+      reader.readAsDataURL(file);
+  
+      loader.style.display = 'block';
+  
+      try {
+        const res = await fetch("/generate", {
+          method: "POST",
+          body: formData
+        });
+        const data = await res.json();
+        loader.style.display = 'none';
+  
+        if (data.pattern) {
+          appendMessage(data.pattern, 'bot');
+        } else {
+          appendMessage("⚠️ Something went wrong: " + JSON.stringify(data), 'bot');
+        }
+      } catch (err) {
+        loader.style.display = 'none';
+        appendMessage("⚠️ Error connecting to server", 'bot');
+      }
+  
+      // Reset textarea
+      form.reset();
+    };
+  
+    function appendMessage(text, role) {
+      const bubble = document.createElement("div");
+      bubble.className = `bubble ${role}`;
+      bubble.innerText = text;
+      chat.appendChild(bubble);
+      chat.scrollTop = chat.scrollHeight;
+    }
+  
+    function appendImage(src, role) {
+      const bubble = document.createElement("div");
+      bubble.className = `bubble ${role}`;
+      const img = document.createElement("img");
+      img.src = src;
+      img.style.maxWidth = "200px";
+      img.style.borderRadius = "10px";
+      img.style.boxShadow = "0 0 6px rgba(0,0,0,0.2)";
+      bubble.appendChild(img);
+      chat.appendChild(bubble);
+      chat.scrollTop = chat.scrollHeight;
+    }
+  </script>  
+</body>
+</html>
